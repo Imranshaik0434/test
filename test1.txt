@@ -2,3 +2,4 @@ course details
 AWS DevOps
 DevOps with Docker and Kubernetes
 Terraform
+azure
