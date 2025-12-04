@@ -2,3 +2,5 @@ aws course
 Devops
 devsecops
 dataengineering
+Python
+pyspark
