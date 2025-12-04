@@ -5,10 +5,7 @@ from main new test
 k1
 k2
 k3
-<<<<<<< HEAD
 k4
 In
-=======
 In
 IQ
->>>>>>> ac031ee (adding IQ)
